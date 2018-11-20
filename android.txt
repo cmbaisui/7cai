@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"101","android_url":"http://app.zgtzqcw.com/7c_101.apk","other":",0,https:\/\/app.qicai2018.com","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"102","android_url":"http://app.zgtzqcw.com/7c_102.apk","other":",0,https:\/\/app.qicai2018.com","thirdLoginEnable":"0"}]}}
