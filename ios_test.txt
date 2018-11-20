@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"101","ios_url":"http:\/\/r.ngyl777.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/cmbaisui/7cai/master/ios_test.plist","other":",1,http:\/\/app.qicai7770.com:9906","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"102","ios_url":"http:\/\/r.ngyl777.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/cmbaisui/7cai/master/ios_test.plist","other":",1,http:\/\/app.qicai7770.com:9906","thirdLoginEnable":"0"}]}}
