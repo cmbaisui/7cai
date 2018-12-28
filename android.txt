@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"116","android_url":"http://app.zgtzqcw.com/7c_116.apk","other":",0,https://app.qc7771.com:9999","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"116","android_url":"http://pwo.ng7771.com/7c_116.apk","other":",0,https://app.qc7771.com:9999","thirdLoginEnable":"0"}]}}
