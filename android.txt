@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"118","android_url":"http://milan.wangfenfen.com/7c_118.apk","other":",0,https://app.qc7771.com:9999","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"118","android_url":"http://milan.wangfenfen.com/7c_118.apk","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
