@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"119","android_url":"http://milan.wangfenfen.com/7c_119.apk","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"119","android_url":"http://app.refine-fashion.com/7c_119.apk","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
