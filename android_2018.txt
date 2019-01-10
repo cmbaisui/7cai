@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"119","android_url":"http://milan.wangfenfen.com/7c_118.apk","other":",0,aHR0cHM6Ly9hcHAuN2NhaWhvbWUuY29tLGh0dHBzOi8vYXBwLnFpY2FpNzc3Mi5jb206OTk5OSxodHRwczovL2FwcC5xaWNhaTIwMTguY29t","thirdLoginEnable":"0"}]}}
