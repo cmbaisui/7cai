@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"ios_version":"128","ios_url":"https:\/\/app.qicai2018.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/cmbaisui/7cai/master/ios.plist","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"ios_version":"130","ios_url":"https:\/\/app.qicai2018.com\/ios_update","applePlist_url":"https://raw.githubusercontent.com/cmbaisui/7cai/master/ios.plist","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}

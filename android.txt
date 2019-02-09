@@ -1,1 +1,1 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"128","android_url":"http://app.jinhealthcare.org/7c_128.apk","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"130","android_url":"http://app.jinhealthcare.org/7c_130.apk","other":",0,https://app.7caihome.com","thirdLoginEnable":"0"}]}}
