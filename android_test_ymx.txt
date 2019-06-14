@@ -1,0 +1,1 @@
+{"root":{"code":"1","message":"ok","result":[{"android_version":"162","android_url":"http://app.liangsanguache.com/7c_162.apk","other":",0,aHR0cDovL2FwcC5xaWNhaXRlc3QyMDIwLmNvbTo4OTk5LGh0dHA6Ly95bXhhLnFpY2FpdGVzdDIwMjAuY29tOjg5OTksaHR0cDovL3lteGIucWljYWl0ZXN0MjAyMC5jb20saHR0cDovL3lteGMucWljYWl0ZXN0MjAyMC5jb206ODk5OSA=","thirdLoginEnable":"0"}]}}
