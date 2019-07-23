@@ -1,2 +1,2 @@
-{"root":{"code":"1","message":"ok","result":[{"android_version":"162","android_url":"http://app.jinhealthcare.org/7c_162.apk","other":"网站升级中（10：35~12：35）,0,aHR0cHM6Ly92b2FwcC43Y2FpaHh5cC5jb20saHR0cHM6Ly92b2FwcC5pbWF5aWppbndvLmNvbSxodHRwczovL3ZvYXBwLmk3Y2FpLm5ldDo5OTg4LGh0dHBzOi8vdm9hcHAuaTdjYWkudmlwOjk5ODg=","thirdLoginEnable":"0"}]}}
+{"root":{"code":"1","message":"ok","result":[{"android_version":"162","android_url":"http://app.jinhealthcare.org/7c_162.apk","other":"网站升级中（02：00~06：00）,0,aHR0cHM6Ly92b2FwcC43Y2FpaHh5cC5jb20saHR0cHM6Ly92b2FwcC5pbWF5aWppbndvLmNvbSxodHRwczovL3ZvYXBwLmk3Y2FpLm5ldDo5OTg4LGh0dHBzOi8vdm9hcHAuaTdjYWkudmlwOjk5ODg=","thirdLoginEnable":"0"}]}}
 
